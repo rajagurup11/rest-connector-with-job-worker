@@ -1,4 +1,5 @@
-package com.raja.camunda.rest_connector_with_job_worker;
+/*
+package com.raja.camunda.restconnectors;
 
 import io.camunda.zeebe.client.api.response.ActivatedJob;
 import io.camunda.zeebe.client.api.worker.JobClient;
@@ -26,3 +27,4 @@ public class RestApiWorker {
     client.newCompleteCommand(job.getKey()).send().join();
   }
 }
+*/
